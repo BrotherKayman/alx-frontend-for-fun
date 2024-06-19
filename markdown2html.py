@@ -16,8 +16,6 @@ Features:
 - Converts unordered and ordered lists.
 - Handles special syntax for md5 hash conversion and character removal.
 """
-
-
 import sys
 import os.path
 import re
