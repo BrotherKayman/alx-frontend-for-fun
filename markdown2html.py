@@ -4,17 +4,6 @@ markdown2html.py
 
 A script to convert a Markdown file to an HTML file.
 
-Usage:
-    ./markdown2html.py input_file.md output_file.html
-
-Arguments:
-    input_file.md     The Markdown file to be converted.
-    output_file.html  The output HTML file name.
-
-Features:
-- Converts Markdown headings, bold and italic text.
-- Converts unordered and ordered lists.
-- Handles special syntax for md5 hash conversion and character removal.
 """
 import sys
 import os.path
