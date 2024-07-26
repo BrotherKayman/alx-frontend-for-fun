@@ -1,0 +1,8 @@
+/* Assigns text color variable to HTML body and p tags */
+body {
+  color: #3D3D3D;
+}
+
+p {
+  color: #3D3D3D;
+}
