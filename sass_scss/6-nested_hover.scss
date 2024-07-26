@@ -1,8 +1,9 @@
-/* add hover effect within nested declaration*/
+/* add hover effect to button within nested declaration*/
 
 button {
     color: #FF0000;
-    &:hover {
+
+    button:hover {
         color: #00FF00;
     }
 }
