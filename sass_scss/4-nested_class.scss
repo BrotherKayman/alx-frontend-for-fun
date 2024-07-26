@@ -1,0 +1,9 @@
+/* Sass file that assgins color vars to class elements*/
+
+$text-color: #3D3D3D;
+$red: #FF0000;
+
+body {
+color: $text-color; }
+body .red {
+    color: $red; }
